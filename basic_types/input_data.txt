@@ -1,0 +1,6 @@
+Player who scored most points is 17
+Player who played the least time 25
+Player who scored most three points is 10
+Players get 58 by throwing two-points
+Players get 22 by throwing free-throws
+Players get 107 during all game
