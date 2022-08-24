@@ -1,6 +1,0 @@
-Number of a player, which scored the most points is 17
-The least amount of time: 8 min 29 s
-Number of a player, which scored the most of three points is 13
-Players get 58 by throwing two-points
-Players get 22 by throwing free-throws
-Players get 95 during all game
