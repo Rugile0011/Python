@@ -28,7 +28,3 @@ test_split_amount()
 ```
 
 5. Write a docstring for your function.
-
-6. Make sure your code works with `amount = 11, banknotes = [5,2]`, solution is `5, 2, 2, 2`.
-
-7. Implement split amount in both recursive and iterative approaches.
